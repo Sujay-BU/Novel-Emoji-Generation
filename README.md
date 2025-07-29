@@ -1,6 +1,9 @@
 # Text-to-Emoji: Custom Emoji Generation
-**Contributors:** Temima Muskin & Sujayanand Kingsly
+**Contributors:** Temima Muskin & Sujayanand Kingsly  
 
+## Aim
+The aim of this project is to generate novel emojis from prompts entered by the user.  
+This is different from standard image generation since we apply a "theme" to the output of our pipeline to make sure the generated images are emojified.
 
 ## Setup the environment
 First, install prerequisites with:

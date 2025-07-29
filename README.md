@@ -1,5 +1,5 @@
 # Text-to-Emoji: Custom Emoji Generation
-Temima Muskin, Sujayanand Kingsly
+**Contributors:** Temima Muskin & Sujayanand Kingsly
 
 
 ## Setup the environment
@@ -26,6 +26,6 @@ To Evalute/Obtain outputs: Make sure to recall `accelerate config` to use multi-
 To change the prompt go to `configs/eval_emoji.json` and update the `prompt`. 
 
 ## Example Output
-Prompt: Playing Soccer
 ![example output](/output/emoji2/1/200/image_2.png)
 
+**Prompt:** Playing Soccer
